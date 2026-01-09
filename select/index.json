@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "DIE SET DOWN",
+  "base_artist": "小林太郎",
+  "createdAt": "2026-01-09T08:00:46.367695Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Die Set Down",
+      "artist": "Taro Kobayashi",
+      "has_synced": true,
+      "path": "select/01_Die_Set_Down_Taro_Kobayashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DIE SET DOWN (English ver.) - Die Set Down (Full Size / English Version)",
+      "artist": "Taro Kobayashi",
+      "has_synced": true,
+      "path": "select/02_DIE_SET_DOWN_(English_ver.)_-_Die_Set_Down_(Full_Size___English_Version)_Taro_Kobayashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DIE SET DOWN - Die Set Down (Full Size Version)",
+      "artist": "Taro Kobayashi",
+      "has_synced": true,
+      "path": "select/03_DIE_SET_DOWN_-_Die_Set_Down_(Full_Size_Version)_Taro_Kobayashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DIE SET DOWN",
+      "artist": "小林太郎",
+      "has_synced": false,
+      "path": "select/pl_01_DIE_SET_DOWN_小林太郎.txt"
+    }
+  ]
+}
